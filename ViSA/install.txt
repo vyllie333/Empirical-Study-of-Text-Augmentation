@@ -1,0 +1,6 @@
+vncorenlp
+tensorboardX
+transformers
+pyvi
+pytorch-crf
+ray

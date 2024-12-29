@@ -20,7 +20,7 @@
 ### Aspect-based Sentiment
 > 10 Aspects: SCREEN, CAMERA, FEATURES, BATTERY, PERFORMANCE, STORAGE, DESIGN, PRICE, GENERAL, SER&ACC.
 
-> 3 Sentiment: Positive, Negative, Neutral.
+> 3 Sentiments: Positive, Negative, Neutral.
 
 > **Total number of Labels: 30.**
 

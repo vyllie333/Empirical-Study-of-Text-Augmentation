@@ -22,7 +22,7 @@
 
 > 3 Sentiments: Positive, Negative, Neutral.
 
-> **Total number of Labels: 30.**
+**Total number of Labels: 30.**
 
 ### PhoBERT
 > A natural language processing (NLP) model specifically designed for Vietnamese, based on the BERT (Bidirectional Encoder Representations from Transformers) architecture.
